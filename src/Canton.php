@@ -56,84 +56,84 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Affoltern'
                     ]
                 ],
                 'Andelfingen' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Andelfingen'
                     ]
                 ],
                 'Bülach'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Bülach'
                     ]
                 ],
                 'Dielsdorf'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Dielsdorf'
                     ]
                 ],
                 'Dietikon'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Dietikon'
                     ]
                 ],
                 'Hinwil'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Hinwil'
                     ]
                 ],
                 'Horgen'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Horgen'
                     ]
                 ],
                 'Meilen'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Meilen'
                     ]
                 ],
                 'Pfäffikon'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Pfäffikon'
                     ]
                 ],
                 'Uster'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Uster'
                     ]
                 ],
                 'Winterthur'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Winterthur'
                     ]
                 ],
                 'Zürich'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Zürich'
                     ]
                 ]
             ]
@@ -164,182 +164,182 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Aarberg'
                     ]
                 ],
                 'Aarwangen'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Aarwangen'
                     ]
                 ],
                 'Bern'            => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Bern'
                     ]
                 ],
                 'Biel'            => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Biel'
                     ]
                 ],
                 'Büren'           => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Büren'
                     ]
                 ],
                 'Burgdorf'        => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Burgdorf'
                     ]
                 ],
                 'Courtelary'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Courtelary'
                     ]
                 ],
                 'Erlach'          => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Erlach'
                     ]
                 ],
                 'Fraubrunnen'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Fraubrunnen'
                     ]
                 ],
                 'Frutigen'        => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Frutigen'
                     ]
                 ],
                 'Interlaken'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Interlaken'
                     ]
                 ],
                 'Konolfingen'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Konolfingen'
                     ]
                 ],
                 'Laupen'          => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Laupen'
                     ]
                 ],
                 'Moutier'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Moutier'
                     ]
                 ],
                 'La Neuveville'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'La Neuveville'
                     ]
                 ],
                 'Nidau'           => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Nidau'
                     ]
                 ],
                 'Niedersimmental' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Niedersimmental'
                     ]
                 ],
                 'Oberhasli'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Oberhasli'
                     ]
                 ],
                 'Obersimmental'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Obersimmental'
                     ]
                 ],
                 'Saanen'          => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Saanen'
                     ]
                 ],
                 'Schwarzenburg'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Schwarzenburg'
                     ]
                 ],
                 'Seftigen'        => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Seftigen'
                     ]
                 ],
                 'Signau'          => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Signau'
                     ]
                 ],
                 'Thun'            => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Thun'
                     ]
                 ],
                 'Trachselwald'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Trachselwald'
                     ]
                 ],
                 'Wangen'          => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Wangen'
                     ]
                 ]
             ]
@@ -359,42 +359,42 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Entlebuch'
                     ]
                 ],
                 'Hochdorf'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Hochdorf'
                     ]
                 ],
                 'Luzern-Land'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Luzern-Land'
                     ]
                 ],
                 'Luzern-Stadt' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Luzern-Stadt'
                     ]
                 ],
                 'Sursee'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Sursee'
                     ]
                 ],
                 'Willisau'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Willisau'
                     ]
                 ]
             ]
@@ -419,42 +419,42 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Einsiedeln'
                     ]
                 ],
                 'Gersau'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Gersau'
                     ]
                 ],
                 'Höfe'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Höfe'
                     ]
                 ],
                 'Küssnacht'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Küssnacht'
                     ]
                 ],
                 'March'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'March'
                     ]
                 ],
                 'Schwyz'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Schwyz'
                     ]
                 ]
             ]
@@ -506,49 +506,49 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Broye'
                     ]
                 ],
                 'Glane'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Glane'
                     ]
                 ],
                 'Greyerz'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Greyerz'
                     ]
                 ],
                 'Saane'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Saane'
                     ]
                 ],
                 'See'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'See'
                     ]
                 ],
                 'Sense'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Sense'
                     ]
                 ],
                 'Vivisbach' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Vivisbach'
                     ]
                 ]
             ]
@@ -568,70 +568,70 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Bucheggberg'
                     ]
                 ],
                 'Dorneck'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Dorneck'
                     ]
                 ],
                 'Gäu'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Gäu'
                     ]
                 ],
                 'Gösgen'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Gösgen'
                     ]
                 ],
                 'Lebern'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Lebern'
                     ]
                 ],
                 'Olten'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Olten'
                     ]
                 ],
                 'Solothurn'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Solothurn'
                     ]
                 ],
                 'Thal'        => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Thal'
                     ]
                 ],
                 'Thierstein'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Thierstein'
                     ]
                 ],
                 'Wasseramt'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Wasseramt'
                     ]
                 ]
             ]
@@ -658,35 +658,35 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Arlesheim'
                     ]
                 ],
                 'Laufen'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Laufen'
                     ]
                 ],
                 'Liestal'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Liestal'
                     ]
                 ],
                 'Sissach'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Sissach'
                     ]
                 ],
                 'Waldenburg' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Waldenburg'
                     ]
                 ],
             ]
@@ -703,42 +703,42 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Oberklettgau'
                     ]
                 ],
                 'Reiat'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Reiat'
                     ]
                 ],
                 'Schaffhausen'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Schaffhausen'
                     ]
                 ],
                 'Schleitheim'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Schleitheim'
                     ]
                 ],
                 'Stein'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Stein'
                     ]
                 ],
                 'Unterklettgau' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Unterklettgau'
                     ]
                 ]
             ]
@@ -754,21 +754,21 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Hinterland'
                     ]
                 ],
                 'Mittelland' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Mittelland'
                     ]
                 ],
                 'Vorderland' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Vorderland'
                     ]
                 ]
             ]
@@ -784,42 +784,42 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Appenzell'
                     ]
                 ],
                 'Gonten'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Gonten'
                     ]
                 ],
                 'Oberegg'        => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Oberegg'
                     ]
                 ],
                 'Rüte'           => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Rüte'
                     ]
                 ],
                 'Schlatt-Haslen' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Schlatt-Haslen'
                     ]
                 ],
                 'Schwende'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Schwende'
                     ]
                 ]
             ]
@@ -841,56 +841,56 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Rheintal'
                     ]
                 ],
                 'Rorschach'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Rorschach'
                     ]
                 ],
                 'Sarganserland' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Sarganserland'
                     ]
                 ],
                 'See-Gaster'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'See-Gaster'
                     ]
                 ],
                 'St. Gallen'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'St. Gallen'
                     ]
                 ],
                 'Toggenburg'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Toggenburg'
                     ]
                 ],
                 'Werdenberg'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Werdenberg'
                     ]
                 ],
                 'Wil'           => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Wil'
                     ]
                 ]
             ]
@@ -915,77 +915,77 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Albula'
                     ]
                 ],
                 'Bernina'                 => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Bernina'
                     ]
                 ],
                 'Unterengadin/Münstertal' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Unterengadin/Münstertal'
                     ]
                 ],
                 'Imboden'                 => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Imboden'
                     ]
                 ],
                 'Landquart'               => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Landquart'
                     ]
                 ],
                 'Maloja'                  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Maloja'
                     ]
                 ],
                 'Moesa'                   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Moesa'
                     ]
                 ],
                 'Plessur'                 => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Plessur'
                     ]
                 ],
                 'Prättigau-Davos'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Prättigau-Davos'
                     ]
                 ],
                 'Surselva'                => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Surselva'
                     ]
                 ],
                 'Viamala'                 => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Viamala'
                     ]
                 ]
             ]
@@ -1009,77 +1009,77 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Aarau'
                     ]
                 ],
                 'Baden'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Baden'
                     ]
                 ],
                 'Bremgarten'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Bremgarten'
                     ]
                 ],
                 'Brugg'       => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Brugg'
                     ]
                 ],
                 'Kulm'        => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Kulm'
                     ]
                 ],
                 'Laufenburg'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Laufenburg'
                     ]
                 ],
                 'Lenzburg'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Lenzburg'
                     ]
                 ],
                 'Muri'        => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Muri'
                     ]
                 ],
                 'Rheinfelden' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Rheinfelden'
                     ]
                 ],
                 'Zofingen'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Zofingen'
                     ]
                 ],
                 'Zurzach'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Zurzach'
                     ]
                 ]
             ]
@@ -1099,35 +1099,35 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Arbon'
                     ]
                 ],
                 'Frauenfeld'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Frauenfeld'
                     ]
                 ],
                 'Kreuzlingen' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Kreuzlingen'
                     ]
                 ],
                 'Münchwilen'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Münchwilen'
                     ]
                 ],
                 'Weinfelden'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Weinfelden'
                     ]
                 ]
             ]
@@ -1151,56 +1151,56 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Bellinzona'
                     ]
                 ],
                 'Blenio'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Blenio'
                     ]
                 ],
                 'Leventina'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Leventina'
                     ]
                 ],
                 'Locarno'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Locarno'
                     ]
                 ],
                 'Lugano'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Lugano'
                     ]
                 ],
                 'Mendrisio'   => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Mendrisio'
                     ]
                 ],
                 'Riviera'     => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Riviera'
                     ]
                 ],
                 'Vallemaggia' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Vallemaggia'
                     ]
                 ]
             ]
@@ -1227,70 +1227,70 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Aigle'
                     ]
                 ],
                 'Broye-Vully'           => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Broye-Vully'
                     ]
                 ],
                 'Gros-de-Vaud'          => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Gros-de-Vaud'
                     ]
                 ],
                 'Waadtländer Nordjura'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Waadtländer Nordjura'
                     ]
                 ],
                 'Lausanne'              => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Lausanne'
                     ]
                 ],
                 'Lavaux-Oron'           => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Lavaux-Oron'
                     ]
                 ],
                 'Morges'                => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Morges'
                     ]
                 ],
                 'Nyon'                  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Nyon'
                     ]
                 ],
                 'Lausanne-West'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Lausanne-West'
                     ]
                 ],
                 'Riviera-Pays-d’Enhaut' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Riviera-Pays-d’Enhaut'
                     ]
                 ]
             ]
@@ -1311,98 +1311,98 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Brig'
                     ]
                 ],
                 'Gundis'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Gundis'
                     ]
                 ],
                 'Entremont'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Entremont'
                     ]
                 ],
                 'Goms'           => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Goms'
                     ]
                 ],
                 'Ering'          => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Ering'
                     ]
                 ],
                 'Leuk'           => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Leuk'
                     ]
                 ],
                 'Martinach'      => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Martinach'
                     ]
                 ],
                 'Monthey'        => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Monthey'
                     ]
                 ],
                 'Östlich Raron'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Östlich Raron'
                     ]
                 ],
                 'Saint-Maurice'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Saint-Maurice'
                     ]
                 ],
                 'Siders'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Siders'
                     ]
                 ],
                 'Sitten'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Sitten'
                     ]
                 ],
                 'Visp'           => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Visp'
                     ]
                 ],
                 'Westlich Raron' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Westlich Raron'
                     ]
                 ]
             ]
@@ -1420,42 +1420,42 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Boudry'
                     ]
                 ],
                 'La Chaux-de-Fonds' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'La Chaux-de-Fonds'
                     ]
                 ],
                 'Le Locle'          => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Le Locle'
                     ]
                 ],
                 'Neuenburg'         => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Neuenburg'
                     ]
                 ],
                 'Val-de-Ruz'        => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Val-de-Ruz'
                     ]
                 ],
                 'Val-de-Travers'    => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Val-de-Travers'
                     ]
                 ]
             ]
@@ -1483,21 +1483,21 @@ class Canton
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Delsberg'
                     ]
                 ],
                 'Freiberge' => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Freiberge'
                     ]
                 ],
                 'Pruntrut'  => [
                     'zip'  =>
                         '',
                     'name' => [
-                        'de' => ''
+                        'de' => 'Pruntrut'
                     ]
                 ]
             ]
