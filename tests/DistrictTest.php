@@ -33,6 +33,14 @@ class DistrictTest extends \PHPUnit_Framework_TestCase
     }
 
     /** @test */
+    public function it_returns_all_postalcodes_of_all_districts_if_just_the_cantons_are_given()
+    {
+        $this->assertTrue(self::isBetween(count(District::getPostalcodes('TG;LU')), 220, 230));
+        $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'TG', 'LU' ])), 220, 230));
+        $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'TG' => [ ], 'LU' => [] ])), 220, 230));
+    }
+
+    /** @test */
     public function it_returns_the_postalcodes_of_the_given_district()
     {
         $this->assertTrue(self::isBetween(count(District::getPostalcodes('TG:Arbon')), 10, 15));
