@@ -4,6 +4,8 @@ Deliver zip for cantons, regions and districts
 ## Examples
 ### Cantons
 
+------------------------------------------------------------------------------------------------------------------------
+
 #### Get postalcodes of all cantons
 - `Canton::getPostalcodes()`
 
@@ -16,7 +18,10 @@ or
 - `Canton::getPostalcodes(array('TG', 'SG', 'AG'))`
 
 
-### Regions
+### Districts
+
+------------------------------------------------------------------------------------------------------------------------
+
 #### Get postalcodes of all districts
 - `District::getPostalcodes()`
 
@@ -58,5 +63,7 @@ or
 
 - District::getPostalcodes([ 'TG' => [ 'Arbon' ], 'AG' => [ 'Aarau', 'Brugg' ] ])
 
-### Districts
+------------------------------------------------------------------------------------------------------------------------
+
+### Regions
 `// coming soon`
