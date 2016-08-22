@@ -31,10 +31,16 @@ class District
         }
 
         if (is_string($cantonsAndDistricts)) {
-            $cantonsWithDistricts = explode(':', $cantonsAndDistricts);
+            $cantonsWithDistricts = explode(';', $cantonsAndDistricts);
             $cantonsAndDistricts = [ ];
             foreach ($cantonsWithDistricts as $cantonsWithDistrict) {
-                $cantonsAndDistricts[substr($cantonsWithDistrict, 0, 2)] = [ ];
+                $districts = substr($cantonsWithDistrict, 3);
+                if ($districts) {
+                    $districts = explode(',', $districts);
+                } else {
+                    $districts = [ ];
+                }
+                $cantonsAndDistricts[substr($cantonsWithDistrict, 0, 2)] = $districts;
             }
         }
 
