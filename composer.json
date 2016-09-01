@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "Deliver zip for cantons, regions and districts",
   "keywords": [
-    "switzerland,swissplaces"
+    "switzerland",
+    "swissplaces"
   ],
   "homepage": "https://github.com/rogerhegland/swissplaces",
   "license": "Apache License 2.0",
