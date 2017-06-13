@@ -29,7 +29,7 @@ class DistrictTest extends \PHPUnit_Framework_TestCase
     {
         $this->assertTrue(self::isBetween(count(District::getPostalcodes('TG')), 75, 85));
         $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'TG' ])), 75, 85));
-        $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'TG' => [ ] ])), 75, 85));
+        $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'TG' => [] ])), 75, 85));
     }
 
     /** @test */
@@ -37,7 +37,7 @@ class DistrictTest extends \PHPUnit_Framework_TestCase
     {
         $this->assertTrue(self::isBetween(count(District::getPostalcodes('TG;LU')), 220, 230));
         $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'TG', 'LU' ])), 220, 230));
-        $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'TG' => [ ], 'LU' => [] ])), 220, 230));
+        $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'TG' => [], 'LU' => [] ])), 220, 230));
     }
 
     /** @test */
@@ -59,6 +59,15 @@ class DistrictTest extends \PHPUnit_Framework_TestCase
     {
         $this->assertTrue(self::isBetween(count(District::getPostalcodes('AG:Aarau,Brugg;LU')), 170, 180));
         $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'AG' => [ 'Aarau', 'Brugg' ], 'LU' ])), 170, 180));
-        $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'AG' => [ 'Aarau', 'Brugg' ], 'LU' => [ ] ])), 170, 180));
+        $this->assertTrue(self::isBetween(count(District::getPostalcodes([ 'AG' => [ 'Aarau', 'Brugg' ], 'LU' => [] ])), 170, 180));
+    }
+
+    /** @test */
+    public function it_returns_the_districts_of_the_given_canton_with_its_postalcodes()
+    {
+        $districts = District::getDistricts('BL');
+
+        $this->assertTrue(count($districts) == 5);
+        $this->assertTrue(count($districts['Arlesheim']) == 15);
     }
 }

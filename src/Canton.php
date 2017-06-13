@@ -24,7 +24,7 @@ class Canton
 
         $cantonAbbreviations = array_map('strtoupper', $cantonAbbreviations);
 
-        $postalcodes = [ ];
+        $postalcodes = [];
         foreach (Swissplace::$_cantons as $abbreviation => $postalcode) {
             if (in_array($abbreviation, $cantonAbbreviations)) {
                 $postalcodes = array_merge($postalcodes, explode(',', $postalcode['zip']));
@@ -32,5 +32,15 @@ class Canton
         }
 
         return $postalcodes;
+    }
+
+    public static function getAbbreviations()
+    {
+        $abbreviations = [];
+        foreach (Swissplace::$_cantons as $abbreviation => $canton) {
+            $abbreviations[] = $abbreviation;
+        }
+
+        return $abbreviations;
     }
 }

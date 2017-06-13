@@ -28,12 +28,21 @@ class CantonTest extends PHPUnit_Framework_TestCase
     }
 
     /** @test */
-    public function the_function_is_case_insensitivity()
+    public function the_postalcode_function_is_case_insensitivity()
     {
         $number = count(Canton::getPostalcodes('tg'));
         $this->assertTrue($number > 120 && $number < 130);
 
         $number = count(Canton::getPostalcodes('Tg'));
         $this->assertTrue($number > 120 && $number < 130);
+    }
+
+    /** @test */
+    public function it_returns_all_canton_abbreviations()
+    {
+        $abbreviations = Canton::getAbbreviations();
+        $this->assertTrue(count($abbreviations) == 26);
+        $this->assertTrue(in_array('AG', $abbreviations));
+        $this->assertTrue(in_array('ZH', $abbreviations));
     }
 }

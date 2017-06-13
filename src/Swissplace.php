@@ -381,7 +381,7 @@ class Swissplace
             'name'      => [
                 'de' => 'Uri'
             ],
-            'districts' => [ ] // Der Kanton Uri ist nicht in Bezirke, sondern in 20 Gemeinden unterteilt
+            'districts' => [] // Der Kanton Uri ist nicht in Bezirke, sondern in 20 Gemeinden unterteilt
         ],
         'SZ' => [
             'zip'       =>
@@ -441,14 +441,14 @@ class Swissplace
             'name'      => [
                 'de' => 'Obwalden'
             ],
-            'districts' => [ ] // Der Kanton Obwalden ist nicht in Bezirke, sondern in sieben Gemeinden unterteilt
+            'districts' => [] // Der Kanton Obwalden ist nicht in Bezirke, sondern in sieben Gemeinden unterteilt
         ],
         'NW' => [
             'zip'       => '6052,6362,6363,6365,6370,6371,6372,6373,6374,6375,6376,6382,6383,6386,6387',
             'name'      => [
                 'de' => 'Nidwalden'
             ],
-            'districts' => [ ] // Der Kanton Nidwalden ist nicht in Bezirke, sondern in elf Gemeinden unterteilt
+            'districts' => [] // Der Kanton Nidwalden ist nicht in Bezirke, sondern in elf Gemeinden unterteilt
         ],
         'GL' => [
             'zip'       =>
@@ -456,7 +456,7 @@ class Swissplace
             'name'      => [
                 'de' => 'Glarus'
             ],
-            'districts' => [ ] // Der Kanton Glarus ist nicht in Bezirke, sondern in drei Gemeinden unterteilt
+            'districts' => [] // Der Kanton Glarus ist nicht in Bezirke, sondern in drei Gemeinden unterteilt
         ],
         'ZG' => [
             'zip'       =>
@@ -464,7 +464,7 @@ class Swissplace
             'name'      => [
                 'de' => 'Zug'
             ],
-            'districts' => [ ] // Der Kanton Zug ist nicht in Bezirke, sondern in elf Gemeinden unterteilt
+            'districts' => [] // Der Kanton Zug ist nicht in Bezirke, sondern in elf Gemeinden unterteilt
         ],
         'FR' => [
             'zip'       =>
@@ -620,7 +620,7 @@ class Swissplace
             'name'      => [
                 'de' => 'Basel-Stadt'
             ],
-            'districts' => [ ] // Der Kanton Basel-Stadt ist nicht in Bezirke, sondern in drei Gemeinden unterteilt
+            'districts' => [] // Der Kanton Basel-Stadt ist nicht in Bezirke, sondern in drei Gemeinden unterteilt
         ],
         'BL' => [
             'zip'       =>
@@ -1456,7 +1456,7 @@ class Swissplace
             'name'      => [
                 'de' => 'Genf'
             ],
-            'districts' => [ ] // Der Kanton Genf ist nicht in Bezirke unterteilt.
+            'districts' => [] // Der Kanton Genf ist nicht in Bezirke unterteilt.
         ],
         'JU' => [
             'zip'       =>

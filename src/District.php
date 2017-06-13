@@ -20,7 +20,7 @@ class District
      */
     public static function getPostalcodes($cantonsAndDistricts = null)
     {
-        $cantons = [ ];
+        $cantons = [];
 
         if (is_null($cantonsAndDistricts)) {
             foreach (Swissplace::$_cantons as $cantonName => $cantonValues) {
@@ -32,28 +32,28 @@ class District
 
         if (is_string($cantonsAndDistricts)) {
             $cantonsWithDistricts = explode(';', $cantonsAndDistricts);
-            $cantonsAndDistricts = [ ];
+            $cantonsAndDistricts = [];
             foreach ($cantonsWithDistricts as $cantonsWithDistrict) {
                 $districts = substr($cantonsWithDistrict, 3);
                 if ($districts) {
                     $districts = explode(',', $districts);
                 } else {
-                    $districts = [ ];
+                    $districts = [];
                 }
                 $cantonsAndDistricts[substr($cantonsWithDistrict, 0, 2)] = $districts;
             }
         }
 
         $cantonsDistricts = $cantonsAndDistricts;
-        $cantonsAndDistricts = [ ];
+        $cantonsAndDistricts = [];
         foreach ($cantonsDistricts as $canton => $districts) {
             if ( ! is_string($canton)) {
                 $canton = $districts;
-                $districts = [ ];
+                $districts = [];
             }
 
             if ( ! count($districts)) {
-                $districtsOfCanton = [ ];
+                $districtsOfCanton = [];
                 foreach (Swissplace::$_cantons[$canton]['districts'] as $districtName => $districtValue) {
                     $districtsOfCanton[] = $districtName;
                 }
@@ -68,7 +68,7 @@ class District
             $cantons[] = $cantonAbbreviation;
         }
 
-        $postalCodes = [ ];
+        $postalCodes = [];
         foreach (Swissplace::$_cantons as $cantonAbbreviation => $cantondata) {
             if ( ! in_array($cantonAbbreviation, $cantons)) {
                 continue;
@@ -84,5 +84,16 @@ class District
         }
 
         return $postalCodes;
+    }
+
+    public static function getDistricts($cantonAbbreviation)
+    {
+        $cantonAbbreviation = strtoupper($cantonAbbreviation);
+        $districts = [];
+        foreach (Swissplace::$_cantons[$cantonAbbreviation]['districts'] as $district) {
+            $districts[$district['name']['de']] = explode(',', $district['zip']);
+        }
+
+        return $districts;
     }
 }
